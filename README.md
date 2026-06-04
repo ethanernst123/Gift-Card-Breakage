@@ -32,11 +32,11 @@ Unlike debt, gift card float carries **no interest, no covenants, and no fixed r
 
 ```
 
-## The Financial Model
+The Financial Model
 
 The Excel model is built across three interconnected tabs with live dropdowns, scenario analysis, and dynamic charts.
 
-### Tab 1 — Model Inputs & Raw Data
+Tab 1 — Model Inputs & Raw Data
 
 Six years of verified gift card liability pulled directly from annual 10-K filings, paired with Federal Reserve prime rate data to calculate equivalent borrowing costs.
 
@@ -54,7 +54,7 @@ Six years of verified gift card liability pulled directly from annual 10-K filin
 
 ---
 
-### Tab 2 — Revenue Recognition & Scenario Analysis
+Tab 2 — Revenue Recognition & Scenario Analysis
 
 A three-scenario breakage model (Best / Base / Worst Case) built using industry average rates sourced from the CFPB and NRF, applied consistently across both companies since neither publicly discloses a specific annual breakage rate.
 
@@ -68,7 +68,7 @@ A three-scenario breakage model (Best / Base / Worst Case) built using industry 
 
 ---
 
-### Tab 3 — Small Business Calculator
+Tab 3 — Small Business Calculator
 
 An interactive model showing how the same mechanics apply at any scale — from a $10,000 corner store gift card program to a $1,000,000 multi-location operation.
 
@@ -83,9 +83,9 @@ An interactive model showing how the same mechanics apply at any scale — from 
 
 ---
 
-## Company Case Studies
+Company Case Studies
 
-### Starbucks (SBUX) — The Gold Standard
+Starbucks (SBUX) — The Gold Standard
 
 Starbucks is the most transparent public company on gift card float. They disclose their stored value card program explicitly in their 10-K filings, breaking out beginning balance, revenue deferred, revenue recognized, and ending balance annually.
 
@@ -103,7 +103,7 @@ Starbucks is the most transparent public company on gift card float. They disclo
 
 ---
 
-### Chipotle (CMG) — The Emerging Story
+Chipotle (CMG) — The Emerging Story
 
 Chipotle's gift card program tells a different but equally compelling story. Their gift card liability grew consistently from $105.4M in 2020 to $181.8M in 2024 before a slight decline in 2025 — driven by a dramatic acceleration in breakage recognition.
 
@@ -119,7 +119,7 @@ Chipotle's gift card program tells a different but equally compelling story. The
 
 ---
 
-## The Promotion Analysis
+The Promotion Analysis
 
 The most original finding in this project: **a business can offer a 20% gift card discount promotion and still outperform a bank loan on a net cost basis.**
 
@@ -141,7 +141,7 @@ The promotion is profitable because three forces work simultaneously:
 
 ---
 
-## Key Findings
+Key Findings
 
 1. **Gift card float is neither debt nor equity** — it carries the best features of both while avoiding the worst. No interest, no dilution, no covenants, and a portion is structurally forgiven through breakage.
 
@@ -155,7 +155,7 @@ The promotion is profitable because three forces work simultaneously:
 
 ---
 
-## Data Sources
+Data Sources
 
 | Source | Used For |
 |---|---|
@@ -168,19 +168,19 @@ The promotion is profitable because three forces work simultaneously:
 
 ---
 
-## Disclaimer
+Disclaimer
 
 This analysis is for educational and illustrative purposes only. All breakage estimates are based on publicly available industry data and are not company-disclosed figures unless explicitly noted. The financial model uses assumptions that may differ from actual company accounting policies. This is not investment advice.
 
 ---
 
-## About
+About
 
 Built by **Ethan** | Finance Professional | FMVA Certified
 
 This project is part of a series of original financial analyses built to demonstrate applied modeling skills, primary source research, and accessible financial communication.
 
-📫 *Open to opportunities in corporate finance, FP&A, and financial analysis.*
+ *Open to opportunities in corporate finance, FP&A, and financial analysis.*
 
 Connect with me: https://www.linkedin.com/ethanernst
 
