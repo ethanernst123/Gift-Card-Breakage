@@ -1,12 +1,12 @@
 # Gift-Card-Breakage
-# 🎁 The Hidden Capital in Gift Cards
+# The Hidden Capital in Gift Cards
 ### How Businesses Raise Interest-Free Capital Through Gift Card Programs
 
 > *"A customer hands over $50. The business books a liability. But what happens between that moment and the moment the card is redeemed — is one of the most overlooked capital strategies in retail finance."*
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 This project presents an original financial analysis examining how gift card programs function as a **zero-cost capital raising instrument** for consumer-facing businesses — and why most people, including finance professionals, have never thought about them this way.
 
@@ -18,7 +18,7 @@ The central question this project answers:
 
 ---
 
-## 💡 The Core Thesis
+## The Core Thesis
 
 Gift cards are not a marketing tool with a financial side effect. For sophisticated operators, they are a **deliberate capital strategy** — one that combines three compounding advantages most observers never connect:
 
@@ -32,7 +32,7 @@ Unlike debt, gift card float carries **no interest, no covenants, and no fixed r
 
 ```
 
-## 📊 The Financial Model
+## The Financial Model
 
 The Excel model is built across three interconnected tabs with live dropdowns, scenario analysis, and dynamic charts.
 
@@ -83,7 +83,7 @@ An interactive model showing how the same mechanics apply at any scale — from 
 
 ---
 
-## 🏢 Company Case Studies
+## Company Case Studies
 
 ### Starbucks (SBUX) — The Gold Standard
 
@@ -119,7 +119,7 @@ Chipotle's gift card program tells a different but equally compelling story. The
 
 ---
 
-## 📐 The Promotion Analysis
+## The Promotion Analysis
 
 The most original finding in this project: **a business can offer a 20% gift card discount promotion and still outperform a bank loan on a net cost basis.**
 
@@ -141,7 +141,7 @@ The promotion is profitable because three forces work simultaneously:
 
 ---
 
-## 🔑 Key Findings
+## Key Findings
 
 1. **Gift card float is neither debt nor equity** — it carries the best features of both while avoiding the worst. No interest, no dilution, no covenants, and a portion is structurally forgiven through breakage.
 
@@ -155,7 +155,7 @@ The promotion is profitable because three forces work simultaneously:
 
 ---
 
-## 📁 Data Sources
+## Data Sources
 
 | Source | Used For |
 |---|---|
@@ -168,13 +168,13 @@ The promotion is profitable because three forces work simultaneously:
 
 ---
 
-## ⚠️ Disclaimer
+## Disclaimer
 
 This analysis is for educational and illustrative purposes only. All breakage estimates are based on publicly available industry data and are not company-disclosed figures unless explicitly noted. The financial model uses assumptions that may differ from actual company accounting policies. This is not investment advice.
 
 ---
 
-## 👤 About
+## About
 
 Built by **Ethan** | Finance Professional | FMVA Certified
 
