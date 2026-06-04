@@ -182,7 +182,7 @@ This project is part of a series of original financial analyses built to demonst
 
 📫 *Open to opportunities in corporate finance, FP&A, and financial analysis.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/ethanernst)
+Connect with me: https://www.linkedin.com/ethanernst
 
 ---
 
