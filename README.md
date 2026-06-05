@@ -1,14 +1,11 @@
-# Gift-Card-Breakage
-# The Hidden Capital in Gift Cards
-### How Businesses Raise Interest-Free Capital Through Gift Card Programs
 
-> *"A customer hands over $50. The business books a liability. But what happens between that moment and the moment the card is redeemed — is one of the most overlooked capital strategies in retail finance."*
+> *"A customer hands over $50. The business books a liability. But what happens between that moment and the moment the card is redeemed is one of the most overlooked capital strategies in retail finance."*
 
 ---
 
 ## Project Overview
 
-This project presents an original financial analysis examining how gift card programs function as a **zero-cost capital raising instrument** for consumer-facing businesses — and why most people, including finance professionals, have never thought about them this way.
+This project presents an original financial analysis examining how gift card programs function as a **zero-cost capital raising instrument** for consumer-facing businesses and why most people, including finance professionals, have never thought about them this way.
 
 Built as a LinkedIn carousel and supported by a fully interactive Excel financial model, this analysis draws on six years of **primary 10-K filing data** from Starbucks (SBUX) and Chipotle (CMG), Federal Reserve interest rate data, and industry breakage research from the CFPB and NRF.
 
@@ -22,11 +19,10 @@ The central question this project answers:
 
 Gift cards are not a marketing tool with a financial side effect. For sophisticated operators, they are a **deliberate capital strategy** — one that combines three compounding advantages most observers never connect:
 
-| Mechanism | What It Means |
-|---|---|
-| **Float** | Cash collected today, obligation deferred — funds operations at zero cost |
-| **Breakage** | 15–19% of gift cards are never fully redeemed — liability converts to pure profit |
-| **Promotional Arbitrage** | Even a 20% discount promotion remains net-positive vs. borrowing at prime rate |
+| Mechanism | What It Means
+| **Float** | Cash collected today, obligation deferred — funds operations at zero cost 
+| **Breakage** | 15–19% of gift cards are never fully redeemed — liability converts to pure profit 
+| **Promotional Arbitrage** | Even a 20% discount promotion remains net-positive vs. borrowing at prime rate 
 
 Unlike debt, gift card float carries **no interest, no covenants, and no fixed repayment date**. Unlike equity, it requires **no dilution of ownership**. It is a third category of capital that most finance textbooks do not cover — and the businesses using it most aggressively are doing so by design.
 
@@ -105,7 +101,7 @@ Starbucks is the most transparent public company on gift card float. They disclo
 
 Chipotle (CMG) — The Emerging Story
 
-Chipotle's gift card program tells a different but equally compelling story. Their gift card liability grew consistently from $105.4M in 2020 to $181.8M in 2024 before a slight decline in 2025 — driven by a dramatic acceleration in breakage recognition.
+Chipotle's gift card program tells a different but equally compelling story. Their gift card liability grew consistently from $105.4M in 2020 to $181.8M in 2024 before a slight decline in 2025, driven by a dramatic acceleration in breakage recognition.
 
 **Chipotle Breakage Revenue Disclosed:**
 
@@ -126,13 +122,13 @@ The most original finding in this project: **a business can offer a 20% gift car
 At $50,000 in gift card sales:
 
 | Item | Amount |
-|---|---|
-| Cash collected (80% of face value) | $40,000 |
-| Face value obligation | $50,000 |
-| Breakage recaptured (15%) | $7,500 |
-| **Net cost of promotion** | **$2,500** |
-| Bank loan interest at 8.25% | $4,125 |
-| **Net advantage vs. bank loan** | **$1,625 ahead** |
+
+| Cash collected (80% of face value) | $40,000
+| Face value obligation | $50,000
+| Breakage recaptured (15%) | $7,500
+| **Net cost of promotion** | **$2,500**
+| Bank loan interest at 8.25% | $4,125
+| **Net advantage vs. bank loan** | **$1,625 ahead**
 
 The promotion is profitable because three forces work simultaneously:
 1. **Float** — cash is collected before any obligation is fulfilled
@@ -158,13 +154,18 @@ Key Findings
 Data Sources
 
 | Source | Used For |
-|---|---|
-| [Starbucks 10-K Filings — SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000829224&type=10-K) | Stored value card liability FY2020–FY2025 |
-| [Chipotle 10-K Filings — SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001058090&type=10-K) | Gift card liability FY2020–FY2025 |
-| [Federal Reserve FRED — Prime Rate](https://fred.stlouisfed.org/series/RIFSPBLPNA) | Annual average prime rate 2020–2025 |
-| [CFPB — Gift Card Market Report](https://www.consumerfinance.gov/data-research/research-reports/gift-cards-navigating-the-marketplace/) | Industry breakage rate range |
-| [National Retail Federation](https://nrf.com/research-insights/holiday-data-and-trends/gift-cards) | Gift card consumer behavior data |
-| [Federal Reserve H.15](https://www.federalreserve.gov/releases/h15/) | Business loan spread data by borrower type |
+| [Starbucks 10-K Filings — SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000829224&type=10-K)
+* Stored value card liability FY2020–FY2025 |
+| [Chipotle 10-K Filings — SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001058090&type=10-K)
+* Gift card liability FY2020–FY2025 |
+| [Federal Reserve FRED — Prime Rate](https://fred.stlouisfed.org/series/RIFSPBLPNA)
+* Annual average prime rate 2020–2025 |
+| [CFPB — Gift Card Market Report](https://www.consumerfinance.gov/data-research/research-reports/gift-cards-navigating-the-marketplace/)
+* Industry breakage rate range |
+| [National Retail Federation](https://nrf.com/research-insights/holiday-data-and-trends/gift-cards)
+* Gift card consumer behavior data |
+| [Federal Reserve H.15](https://www.federalreserve.gov/releases/h15/)
+* Business loan spread data by borrower type |
 
 ---
 
@@ -175,8 +176,6 @@ This analysis is for educational and illustrative purposes only. All breakage es
 ---
 
 About
-
-Built by **Ethan** | Finance Professional | FMVA Certified
 
 This project is part of a series of original financial analyses built to demonstrate applied modeling skills, primary source research, and accessible financial communication.
 
